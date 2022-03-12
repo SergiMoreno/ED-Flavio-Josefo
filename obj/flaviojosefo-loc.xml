@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 26" line=" 2" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2019\bin\helloworld.gpr</vfs_file>
+    </file_marker>
+    <file_marker column=" 31" line=" 11" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2019\bin\GPS projects\Flavio_Josefo\src\dcola.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 76" line=" 54" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2019\bin\GPS projects\Flavio_Josefo\src\dcola.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>C:\GNAT\2019\bin\GPS projects\Flavio_Josefo\src\flavio_josefo.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2019\bin\GPS projects\FlavioJosefo\FlavioJosefo\flaviojosefo.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2019\bin\GPS projects\FlavioJosefo\FlavioJosefo\src\flaviojosefo.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2019\bin\GPS projects\FlavioJosefo\FlavioJosefo\flaviojosefo.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2019\bin\GPS projects\FlavioJosefo\FlavioJosefo\src\dCola.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\2019\bin\GPS projects\FlavioJosefo\FlavioJosefo\flaviojosefo.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2019\bin\GPS projects\FlavioJosefo\FlavioJosefo\src\dCola.adb</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Usuario\Desktop\FlavioJosefo\FlavioJosefo\flaviojosefo.gpr</vfs_file>
+    <file_marker column=" 19" line=" 74">
+      <vfs_project >C:\Users\Usuario\Desktop\FlavioJosefo\FlavioJosefo\flaviojosefo.gpr</vfs_project>
+      <vfs_file >C:\Users\Usuario\Desktop\FlavioJosefo\FlavioJosefo\src\flaviojosefo.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\Users\Usuario\Desktop\FlavioJosefo\FlavioJosefo\flaviojosefo.gpr</vfs_project>
+      <vfs_file >C:\Users\Usuario\Desktop\FlavioJosefo\FlavioJosefo\src\dCola.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\Users\Usuario\Desktop\FlavioJosefo\flaviojosefo.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1">
+      <vfs_project >C:\Users\Usuario\Desktop\FlavioJosefo\flaviojosefo.gpr</vfs_project>
+      <vfs_file >C:\Users\Usuario\Desktop\FlavioJosefo\src\flaviojosefo.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1">
+      <vfs_project >C:\Users\Usuario\Desktop\FlavioJosefo\flaviojosefo.gpr</vfs_project>
+      <vfs_file >C:\Users\Usuario\Desktop\FlavioJosefo\src\dCola.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
